@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vadym/Desktop/labs programming/lab5/Header.h
+string
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/Vadym/Desktop/labs programming/lab5/Main.cpp
+Header.h
+C:/Users/Vadym/Desktop/labs programming/lab5/Header.h
+string
+-
+iostream
+-
+iomanip
+-
+
